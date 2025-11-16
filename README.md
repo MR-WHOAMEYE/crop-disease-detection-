@@ -54,7 +54,7 @@ A deep learning-based web application for detecting diseases in crop leaves usin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MR-WHOAMEYE/crop-disease-detection-.git
+   git clone https://github.com/MR-WHOAMEYE/crop-disease-detection.git
    cd crop-disease-detection-
    ```
 
@@ -131,7 +131,7 @@ Training features:
 ## 📁 Project Structure
 
 ```
-crop-disease-detection-/
+crop-disease-detection/
 ├── app.py                      # Streamlit web application
 ├── main.py                     # Model training script
 ├── banana_resnet50.keras       # Pre-trained Banana disease model
